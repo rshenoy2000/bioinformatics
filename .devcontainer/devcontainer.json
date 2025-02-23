@@ -1,0 +1,8 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/base:debian",
+	"features": {
+		"ghcr.io/rocker-org/devcontainer-features/r-apt:0": {},
+		"ghcr.io/devcontainers-extra/features/ant-sdkman:2": {},
+		"ghcr.io/devcontainers/features/java:1.6.2": {}
+	}
+}
